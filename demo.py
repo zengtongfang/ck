@@ -9,3 +9,4 @@ print(())       #元组
 print([])       #数组
 print({})       #字典
 print(2>3)
+print(11)
